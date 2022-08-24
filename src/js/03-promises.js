@@ -30,5 +30,5 @@ form.addEventListener('submit', (event) => {
         Notify.failure(`Rejected promise ${position} in ${delay}ms`);
       });
   }
-})
+});
 
